@@ -4,13 +4,13 @@
   </a>
 </div>
 <br>
+
+<div align="center">
+  <a href="mailto:helloworldhoney@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
+<br>
+
 <table>
-  <tr>
-    <td colspan="2" align="center" valign="middle">
-      <a href="mailto:helloworldhoney@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      &nbsp;
-    </td>
-  </tr>
   <tr>
     <td colspan="2" valign="middle">
       <h3>Hey there! I'm Hani👋</h3>
@@ -31,6 +31,7 @@
     </td>
   </tr>
 </table>
+
 <div align="center">
   <a href="https://postimg.cc/k6NkZpYs">
     <img src="https://i.postimg.cc/pT3R9NDw/Footer.png" width="100%" alt="Coding Quotes"/>
