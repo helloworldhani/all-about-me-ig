@@ -19,10 +19,11 @@
   <tr>
     <td valign="middle" width="70%">
       <br>
-      <b>Full-Stack Development, UI/UX Design, Machine Learning</b><br><br>
-      I'm an Information Technology student passionate about software development, AI, and machine learning. I enjoy building scalable web and mobile applications, designing intuitive user experiences, and exploring intelligent systems through data and automation.<br><br>
-      My current focus is on developing AI-powered applications, automation workflows, and full-stack projects using <b>React, React Native, Python, TypeScript, PHP, MySQL, Tailwind CSS, and n8n</b>. I'm especially interested in <b>Machine Learning</b>, where I continuously explore data analysis, predictive modeling, and natural language processing with <b>Pandas, NumPy, Scikit-learn, and NLTK</b>.<br><br>
-      I love turning ideas into practical solutions and continuously learning new technologies that create real-world impact.
+      <b>Aspiring Software Engineer & Data Science Enthusiast </b><br><br>
+      I'm a multidisciplinary product builder working across software development, design, and applied machine learning. I enjoy building web and mobile applications, designing intuitive user experiences, creating visual identities, and turning ideas into practical digital products. <br><br>
+      I work primarily with Java, TypeScript, Python, PHP, React, Next.js, React Native, Expo, MySQL, Tailwind CSS, and n8n, with Java, React, and Next.js being some of my favorite technologies to build with. My work also extends into UI/UX design, graphic design, brand identity, AI, automation, and machine learning. For data-driven projects, I use tools such as Pandas, NumPy, Scikit-learn, and NLTK for data analysis, predictive modeling, and natural language processing.
+</b>.<br><br>
+      Currently building things and questioning my life choices.
     </td>
     <td align="center" valign="middle" width="30%">
       <a href="https://postimg.cc/CZJqMF20">
